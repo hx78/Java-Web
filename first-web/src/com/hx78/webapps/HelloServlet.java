@@ -1,5 +1,6 @@
 package com.hx78.webapps;
 
+import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -12,6 +13,25 @@ import java.io.IOException;
  */
 @WebServlet(name = "HelloServlet")
 public class HelloServlet extends HttpServlet {
+    @Override
+    public void init(ServletConfig config) throws ServletException {
+        System.out.println("init(ServletConfig config)");
+        super.init(config);
+    }
+
+    @Override
+    public void init() throws ServletException {
+        System.out.println("init");
+        super.init();
+    }
+
+    @Override
+    protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        System.out.println("service");
+        resp.getWriter().println("hello servlet service");
+        super.service(req, resp);
+    }
+
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         System.out.println("doPost");
         response.getWriter().println("hello servlet doPost");
@@ -22,10 +42,4 @@ public class HelloServlet extends HttpServlet {
         response.getWriter().println("hello servlet doGet");
     }
 
-    @Override
-    protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        System.out.println("service");
-        resp.getWriter().println("hello servlet service");
-        super.service(req, resp);
-    }
 }
