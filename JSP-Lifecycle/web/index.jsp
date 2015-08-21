@@ -27,6 +27,14 @@
     destroyVar++;
     System.out.println("jspDestroy(): JSP被销毁了"+destroyVar+"次");
   }
+//不能重写_jspService,会报重定义
+//  public void _jspService(HttpServletRequest request,
+//                   HttpServletResponse response)
+//  {
+//    // 服务端处理代码
+//    serviceVar++;
+//    System.out.println("_jspService(): JSP共响应了"+serviceVar+"次请求");
+//  }
 %>
 
 <%
