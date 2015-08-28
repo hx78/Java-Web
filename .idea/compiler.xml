@@ -22,14 +22,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="HNUST" />
         <module name="jdbc-demo" />
         <module name="maven-jdbc-test" />
+        <module name="spring-springMVC-mybatis" />
+        <module name="springmvc" />
+        <module name="springmvcexample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="first-SpringMVC" target="1.7" />
+      <module name="HNUST" target="1.7" />
       <module name="jdbc" target="1.7" />
       <module name="jdbc-demo" target="1.7" />
       <module name="maven-jdbc-test" target="1.7" />
+      <module name="spring-springMVC-mybatis" target="1.7" />
+      <module name="springmvc" target="1.7" />
+      <module name="springmvcexample" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

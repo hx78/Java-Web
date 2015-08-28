@@ -5,7 +5,7 @@
          version="3.1">
     <servlet>
         <servlet-name>jdbc test</servlet-name>
-        <servlet-class>com.hx78.webapps.JDBCServlet</servlet-class>
+        <servlet-class>JDBCServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>

@@ -2,8 +2,6 @@ package com.hx78.webapps.DAO;
 
 import com.hx78.webapps.DTO.userEntity;
 
-import java.sql.Connection;
-
 /**
  * Created by linming on 2015/8/21 0021.
  */

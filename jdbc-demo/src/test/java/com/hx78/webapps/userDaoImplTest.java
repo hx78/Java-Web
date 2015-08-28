@@ -1,7 +1,5 @@
 package com.hx78.webapps;
 
-import com.hx78.webapps.DAO.userDaoImpl;
-import com.hx78.webapps.DTO.userEntity;
 import junit.framework.TestCase;
 
 /**

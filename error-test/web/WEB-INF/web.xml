@@ -5,7 +5,7 @@
          version="3.1">
     <servlet>
         <servlet-name>error servlet</servlet-name>
-        <servlet-class>com.hx78.webapps.ErrorServlet</servlet-class>
+        <servlet-class>ErrorServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>error servlet</servlet-name>

@@ -6,7 +6,7 @@
     <display-name>Archetype Created Web Application</display-name>
     <servlet>
         <servlet-name>jdbc test</servlet-name>
-        <servlet-class>com.hx78.webapps.JDBCServlet</servlet-class>
+        <servlet-class>JDBCServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
