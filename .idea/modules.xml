@@ -9,11 +9,16 @@
       <module fileurl="file://$PROJECT_DIR$/Java-Web.iml" filepath="$PROJECT_DIR$/Java-Web.iml" />
       <module fileurl="file://E:/third/Spring-sample/Spring-sample.iml" filepath="E:/third/Spring-sample/Spring-sample.iml" />
       <module fileurl="file://E:/third/SpringMVC_01/SpringMVC_01.iml" filepath="E:/third/SpringMVC_01/SpringMVC_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/auto-wiring/auto-wiring.iml" filepath="$PROJECT_DIR$/spring/auto-wiring/auto-wiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/collection-bean/collection-bean.iml" filepath="$PROJECT_DIR$/spring/collection-bean/collection-bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/error-test/error-test.iml" filepath="$PROJECT_DIR$/error-test/error-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/first-spring/first-spring.iml" filepath="$PROJECT_DIR$/spring/first-spring/first-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/first-web/first-web.iml" filepath="$PROJECT_DIR$/first-web/first-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/form-test/form-test.iml" filepath="$PROJECT_DIR$/form-test/form-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/inherit-bean/inherit-bean.iml" filepath="$PROJECT_DIR$/spring/inherit-bean/inherit-bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc-demo/jdbc-demo.iml" filepath="$PROJECT_DIR$/jdbc-demo/jdbc-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-jdbc-test/maven-jdbc-test.iml" filepath="$PROJECT_DIR$/maven-jdbc-test/maven-jdbc-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring-DI/spring-DI.iml" filepath="$PROJECT_DIR$/spring/spring-DI/spring-DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" filepath="$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" />
       <module fileurl="file://E:/third/springmvc/springmvc.iml" filepath="E:/third/springmvc/springmvc.iml" />
       <module fileurl="file://D:/downloads/springmvcexample/springmvcexample.iml" filepath="D:/downloads/springmvcexample/springmvcexample.iml" />
