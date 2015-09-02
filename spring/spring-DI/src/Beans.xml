@@ -9,6 +9,9 @@
 
        <context:annotation-config/>
 
+       <!-- 自动扫描 -->
+       <context:component-scan base-package="com.hx78.spring"/>
+
        <!-- Definition for student bean -->
        <bean id="student" class="com.hx78.spring.Student">
               <property name="name" value="Zara" />
@@ -16,10 +19,30 @@
               <property name="age" value="11" />
        </bean>
 
+       <bean id="student1" class="com.hx78.spring.Student">
+              <property name="name" value="smatha" />
+              <!-- try without passing age and check the result -->
+              <property name="age" value="1" />
+       </bean>
+
+       <bean id="student2" class="com.hx78.spring.Student">
+              <property name="name" value="lala" />
+              <!-- try without passing age and check the result -->
+              <property name="age" value="2" />
+       </bean>
+
        <!-- Definition for textEditor bean without constructor-arg -->
-       <!--<bean id="textEditor" class="com.hx78.spring.TextEditor">-->
-       <!--</bean>-->
+       <bean id="textEditor" class="com.hx78.spring.TextEditor">
+       </bean>
        <!-- Definition for spellChecker bean -->
        <bean id="spellChecker" class="com.hx78.spring.SpellChecker">
+       </bean>
+
+       <!-- Definition for profile bean -->
+       <bean id="profile" class="com.hx78.spring.Profile">
+       </bean>
+
+       <bean id="helloWorld" name="helloWorld" class="com.hx78.spring.service.impl.HelloWorldImpl">
+
        </bean>
 </beans>
