@@ -13,36 +13,36 @@
        <context:component-scan base-package="com.hx78.spring"/>
 
        <!-- Definition for student bean -->
-       <bean id="student" class="com.hx78.spring.Student">
+       <bean id="student" class="Student">
               <property name="name" value="Zara" />
               <!-- try without passing age and check the result -->
               <property name="age" value="11" />
        </bean>
 
-       <bean id="student1" class="com.hx78.spring.Student">
+       <bean id="student1" class="Student">
               <property name="name" value="smatha" />
               <!-- try without passing age and check the result -->
               <property name="age" value="1" />
        </bean>
 
-       <bean id="student2" class="com.hx78.spring.Student">
+       <bean id="student2" class="Student">
               <property name="name" value="lala" />
               <!-- try without passing age and check the result -->
               <property name="age" value="2" />
        </bean>
 
        <!-- Definition for textEditor bean without constructor-arg -->
-       <bean id="textEditor" class="com.hx78.spring.TextEditor">
+       <bean id="textEditor" class="TextEditor">
        </bean>
        <!-- Definition for spellChecker bean -->
-       <bean id="spellChecker" class="com.hx78.spring.SpellChecker">
+       <bean id="spellChecker" class="SpellChecker">
        </bean>
 
        <!-- Definition for profile bean -->
-       <bean id="profile" class="com.hx78.spring.Profile">
+       <bean id="profile" class="com.hx78.spring.jdbc.Profile">
        </bean>
 
-       <bean id="helloWorld" name="helloWorld" class="com.hx78.spring.service.impl.HelloWorldImpl">
+       <bean id="helloWorld" name="helloWorld" class="com.hx78.spring.jdbc.service.impl.HelloWorldImpl">
 
        </bean>
 </beans>
