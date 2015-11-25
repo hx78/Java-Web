@@ -11,8 +11,8 @@ import java.io.PrintWriter;
 /**
  * Created by linming on 2015/8/18 0018.
  */
-@WebServlet(name = "ErrorServlet")
-public class ErrorServlet extends HttpServlet {
+@WebServlet(name = "ErrorServlet2")
+public class ErrorServlet2 extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         doGet(request, response);
     }
