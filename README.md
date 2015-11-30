@@ -1,5 +1,4 @@
-# Java-Web
->基于IDEA的入门练习java web工程
+基于IDEA的入门练习java web工程
 
 # basic-train
 >
