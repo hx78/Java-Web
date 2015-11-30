@@ -33,6 +33,14 @@
     <bytecodeTargetLevel>
       <module name="first-SpringMVC" target="1.7" />
       <module name="HNUST" target="1.7" />
+      <module name="http-consumer" target="1.7" />
+      <module name="http-consumer (1)" target="1.7" />
+      <module name="http-interfaces" target="1.7" />
+      <module name="http-interfaces (1)" target="1.7" />
+      <module name="http-provider" target="1.7" />
+      <module name="http-provider (1)" target="1.7" />
+      <module name="http-rpc" target="1.7" />
+      <module name="http-rpc (1)" target="1.7" />
       <module name="jdbc" target="1.7" />
       <module name="jdbc-demo" target="1.7" />
       <module name="maven-aop-xml" target="1.7" />

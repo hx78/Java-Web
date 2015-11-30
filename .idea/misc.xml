@@ -5,9 +5,9 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://D:/downloads/springmvcexample" />
+    <file type="web" url="file://$PROJECT_DIR$/basic-train/jdbc-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/basic-train/maven-jdbc-test" />
     <file type="web" url="file://$PROJECT_DIR$/first-SpringMVC" />
-    <file type="web" url="file://$PROJECT_DIR$/jdbc-demo" />
-    <file type="web" url="file://$PROJECT_DIR$/maven-jdbc-test" />
     <file type="web" url="file://$PROJECT_DIR$/spring-springMVC-mybatis" />
     <file type="web" url="file://E:/third/springmvc" />
     <file type="web" url="file://E:/third/SSM-Sample" />
