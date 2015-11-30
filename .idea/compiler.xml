@@ -23,8 +23,10 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="HNUST" />
-        <module name="jdbc-demo" />
-        <module name="maven-jdbc-test" />
+        <module name="http-consumer" />
+        <module name="http-interfaces" />
+        <module name="http-provider" />
+        <module name="http-rpc" />
         <module name="spring-springMVC-mybatis" />
         <module name="springmvc" />
         <module name="springmvcexample" />

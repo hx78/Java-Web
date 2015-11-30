@@ -19,9 +19,11 @@
       <module fileurl="file://$PROJECT_DIR$/spring/first-spring/first-spring.iml" filepath="$PROJECT_DIR$/spring/first-spring/first-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/first-web/first-web.iml" filepath="$PROJECT_DIR$/basic-train/first-web/first-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/form-test/form-test.iml" filepath="$PROJECT_DIR$/basic-train/form-test/form-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/http-consumer/http-consumer.iml" filepath="$PROJECT_DIR$/RPC/http-consumer/http-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/http-interfaces/http-interfaces.iml" filepath="$PROJECT_DIR$/RPC/http-interfaces/http-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/http-provider/http-provider.iml" filepath="$PROJECT_DIR$/RPC/http-provider/http-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/http-rpc/http-rpc.iml" filepath="$PROJECT_DIR$/RPC/http-rpc/http-rpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/inherit-bean/inherit-bean.iml" filepath="$PROJECT_DIR$/spring/inherit-bean/inherit-bean.iml" />
-      <module fileurl="file://$PROJECT_DIR$/basic-train/jdbc-demo/jdbc-demo.iml" filepath="$PROJECT_DIR$/basic-train/jdbc-demo/jdbc-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/basic-train/maven-jdbc-test/maven-jdbc-test.iml" filepath="$PROJECT_DIR$/basic-train/maven-jdbc-test/maven-jdbc-test.iml" />
       <module fileurl="file://E:/third/mybatis-gen/mybatis-gen.iml" filepath="E:/third/mybatis-gen/mybatis-gen.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-DI/spring-DI.iml" filepath="$PROJECT_DIR$/spring/spring-DI/spring-DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-jdbc/spring-jdbc.iml" filepath="$PROJECT_DIR$/spring/spring-jdbc/spring-jdbc.iml" />
