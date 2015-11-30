@@ -25,6 +25,10 @@
         <option value="$PROJECT_DIR$/RPC/http-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/RPC/http-provider/pom.xml" />
         <option value="$PROJECT_DIR$/RPC/http-interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/http-rpc/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/http-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/http-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/http-interfaces/pom.xml" />
       </list>
     </option>
   </component>

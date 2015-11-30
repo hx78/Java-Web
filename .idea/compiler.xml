@@ -24,9 +24,13 @@
         <processorPath useClasspath="true" />
         <module name="HNUST" />
         <module name="http-consumer" />
+        <module name="http-consumer (1)" />
         <module name="http-interfaces" />
+        <module name="http-interfaces-zookeeper" />
         <module name="http-provider" />
+        <module name="http-provider (1)" />
         <module name="http-rpc" />
+        <module name="http-rpc-zookeeper" />
         <module name="spring-springMVC-mybatis" />
         <module name="springmvc" />
         <module name="springmvcexample" />
@@ -39,10 +43,12 @@
       <module name="http-consumer (1)" target="1.7" />
       <module name="http-interfaces" target="1.7" />
       <module name="http-interfaces (1)" target="1.7" />
+      <module name="http-interfaces-zookeeper" target="1.7" />
       <module name="http-provider" target="1.7" />
       <module name="http-provider (1)" target="1.7" />
       <module name="http-rpc" target="1.7" />
       <module name="http-rpc (1)" target="1.7" />
+      <module name="http-rpc-zookeeper" target="1.7" />
       <module name="jdbc" target="1.7" />
       <module name="jdbc-demo" target="1.7" />
       <module name="maven-aop-xml" target="1.7" />
