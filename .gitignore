@@ -10,15 +10,20 @@
 *.ear
 
 # IntelliJ project files
-#.idea
+.idea
+!.idea/artifacts
+!.idea/compiler.xml
+!.idea/encodings.xml
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/misc.xml
 *.iml
 /out
 /gen
-/spring-springMVC-mybatis/logs/ssm.log
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-.idea/workspace.xml
-out/
 target/
+/spring-springMVC-mybatis/logs/ssm.log
