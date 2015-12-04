@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Definition for textEditor bean -->
+    <!--<bean id="textEditor" class="TextEditor">-->
+        <!--<property name="spellChecker" ref="spellChecker"/>-->
+        <!--<property name="name" value="Generic Text Editor"/>-->
+    <!--</bean>-->
+
+    <!-- Definition for textEditor bean -->
+    <!--<bean id="textEditor" class="TextEditor" autowire="byName">-->
+        <!--&lt;!&ndash;<property name="spellChecker" ref="spellChecker"/>&ndash;&gt;-->
+        <!--<property name="name" value="Generic Text Editor"/>-->
+    <!--</bean>-->
+
+    <!-- Definition for textEditor bean -->
+    <!--<bean id="textEditor" class="TextEditor" autowire="byType">-->
+        <!--&lt;!&ndash;<property name="spellChecker" ref="spellChecker"/>&ndash;&gt;-->
+        <!--<property name="name" value="Generic Text Editor"/>-->
+    <!--</bean>-->
+
+    <!-- Definition for textEditor bean -->
+    <bean id="textEditor" class="com.hx78.spring.jdbc.TextEditor" autowire="constructor">
+        <!--<constructor-arg ref="spellChecker" />-->
+        <constructor-arg value="Generic Text Editor"/>
+    </bean>
+
+    <!-- Definition for spellChecker bean -->
+    <bean id="spellChecker" class="com.hx78.spring.jdbc.SpellChecker">
+    </bean>
+
+</beans>
