@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Web-test.iml" filepath="$PROJECT_DIR$/.idea/Java-Web-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JMS/SpringInteJMS/SpringInteActiveMQ.iml" filepath="$PROJECT_DIR$/JMS/SpringInteJMS/SpringInteActiveMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo-demo-provider/dubbo-demo-provider.iml" filepath="$PROJECT_DIR$/dubbo/dubbo-demo-provider/dubbo-demo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo-demon-consumer/dubbo-demon-consumer.iml" filepath="$PROJECT_DIR$/dubbo/dubbo-demon-consumer/dubbo-demon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-train/error-test/error-test.iml" filepath="$PROJECT_DIR$/basic-train/error-test/error-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/http-consumer/http-consumer.iml" filepath="$PROJECT_DIR$/RPC/http-consumer/http-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper/http-consumer/http-consumer-zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/http-consumer/http-consumer-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/http-interfaces/http-interfaces.iml" filepath="$PROJECT_DIR$/RPC/http-interfaces/http-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper/http-interfaces/http-interfaces-zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/http-interfaces/http-interfaces-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/http-provider/http-provider.iml" filepath="$PROJECT_DIR$/RPC/http-provider/http-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper/http-provider/http-provider-zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/http-provider/http-provider-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC/http-rpc/http-rpc.iml" filepath="$PROJECT_DIR$/RPC/http-rpc/http-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper/http-rpc/http-rpc-zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/http-rpc/http-rpc-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-train/jdbc-demo/jdbc-demo.iml" filepath="$PROJECT_DIR$/basic-train/jdbc-demo/jdbc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-train/maven-jdbc-test/maven-jdbc-test.iml" filepath="$PROJECT_DIR$/basic-train/maven-jdbc-test/maven-jdbc-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" filepath="$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" />
+    </modules>
+  </component>
+</project>
