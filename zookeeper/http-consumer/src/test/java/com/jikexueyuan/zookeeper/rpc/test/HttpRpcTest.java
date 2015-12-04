@@ -32,7 +32,7 @@ public class HttpRpcTest
 
     @Test
     public void test() throws InterruptedException {
-        int count = 10000;
+        int count = 100000;
         //开始的倒数锁
         final CountDownLatch countDownLatch=new CountDownLatch(count);
         //10名选手

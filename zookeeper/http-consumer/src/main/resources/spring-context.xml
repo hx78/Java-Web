@@ -19,7 +19,7 @@
     <context:annotation-config />
 
     <bean id="consumerConfig" class="com.jikexueyuan.zookeeper.rpc.invoke.ConsumerConfig">
-        <property name="url" value="zookeeper://10.10.10.201:2181" />
+        <property name="url" value="zookeeper://10.10.10.204:2182" />
     </bean>
 
     <bean id="speakInterfaceInvoker" class="com.jikexueyuan.zookeeper.rpc.proxy.ConsumerProxyFactory">
