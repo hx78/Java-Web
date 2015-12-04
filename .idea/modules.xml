@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring/AOP-DI/AOP-DI.iml" filepath="$PROJECT_DIR$/spring/AOP-DI/AOP-DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/JDBC-test/JDBC-test.iml" filepath="$PROJECT_DIR$/basic-train/JDBC-test/JDBC-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/JSP-Lifecycle/JSP-Lifecycle.iml" filepath="$PROJECT_DIR$/basic-train/JSP-Lifecycle/JSP-Lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/JSP-grammar/JSP-grammar.iml" filepath="$PROJECT_DIR$/basic-train/JSP-grammar/JSP-grammar.iml" />
