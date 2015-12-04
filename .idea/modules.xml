@@ -4,13 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring/AOP-DI/AOP-DI.iml" filepath="$PROJECT_DIR$/spring/AOP-DI/AOP-DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/AOP-XML/AOP-XML.iml" filepath="$PROJECT_DIR$/spring/AOP-XML/AOP-XML.iml" />
-      <module fileurl="file://E:/third/SSM-Sample/HNUST.iml" filepath="E:/third/SSM-Sample/HNUST.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/JDBC-test/JDBC-test.iml" filepath="$PROJECT_DIR$/basic-train/JDBC-test/JDBC-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/JSP-Lifecycle/JSP-Lifecycle.iml" filepath="$PROJECT_DIR$/basic-train/JSP-Lifecycle/JSP-Lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/JSP-grammar/JSP-grammar.iml" filepath="$PROJECT_DIR$/basic-train/JSP-grammar/JSP-grammar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Web.iml" filepath="$PROJECT_DIR$/Java-Web.iml" />
-      <module fileurl="file://E:/third/Spring-sample/Spring-sample.iml" filepath="E:/third/Spring-sample/Spring-sample.iml" />
-      <module fileurl="file://E:/third/SpringMVC_01/SpringMVC_01.iml" filepath="E:/third/SpringMVC_01/SpringMVC_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utils/Utils.iml" filepath="$PROJECT_DIR$/Utils/Utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/auto-wiring/auto-wiring.iml" filepath="$PROJECT_DIR$/spring/auto-wiring/auto-wiring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/collection-bean/collection-bean.iml" filepath="$PROJECT_DIR$/spring/collection-bean/collection-bean.iml" />
@@ -28,15 +25,12 @@
       <module fileurl="file://$PROJECT_DIR$/RPC/http-rpc/http-rpc.iml" filepath="$PROJECT_DIR$/RPC/http-rpc/http-rpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/zookeeper/http-rpc/http-rpc-zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/http-rpc/http-rpc-zookeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/inherit-bean/inherit-bean.iml" filepath="$PROJECT_DIR$/spring/inherit-bean/inherit-bean.iml" />
-      <module fileurl="file://E:/third/mybatis-gen/mybatis-gen.iml" filepath="E:/third/mybatis-gen/mybatis-gen.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-DI/spring-DI.iml" filepath="$PROJECT_DIR$/spring/spring-DI/spring-DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-jdbc/spring-jdbc.iml" filepath="$PROJECT_DIR$/spring/spring-jdbc/spring-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-jdbc-stored-procedure/spring-jdbc-stored-procedure.iml" filepath="$PROJECT_DIR$/spring/spring-jdbc-stored-procedure/spring-jdbc-stored-procedure.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-jdbc-transaction-programing/spring-jdbc-transaction-programing.iml" filepath="$PROJECT_DIR$/spring/spring-jdbc-transaction-programing/spring-jdbc-transaction-programing.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-jdbc-transaction-statement/spring-jdbc-transaction-statement.iml" filepath="$PROJECT_DIR$/spring/spring-jdbc-transaction-statement/spring-jdbc-transaction-statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" filepath="$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" />
-      <module fileurl="file://E:/third/springmvc/springmvc.iml" filepath="E:/third/springmvc/springmvc.iml" />
-      <module fileurl="file://D:/downloads/springmvcexample/springmvcexample.iml" filepath="D:/downloads/springmvcexample/springmvcexample.iml" />
     </modules>
   </component>
 </project>

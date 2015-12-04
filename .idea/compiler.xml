@@ -22,7 +22,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="HNUST" />
         <module name="http-consumer" />
         <module name="http-consumer (1)" />
         <module name="http-interfaces" />
@@ -31,9 +30,6 @@
         <module name="http-provider (1)" />
         <module name="http-rpc" />
         <module name="http-rpc-zookeeper" />
-        <module name="spring-springMVC-mybatis" />
-        <module name="springmvc" />
-        <module name="springmvcexample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

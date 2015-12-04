@@ -4,11 +4,11 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://D:/downloads/springmvcexample" />
-    <file type="web" url="file://$PROJECT_DIR$/basic-train/jdbc-demo" />
-    <file type="web" url="file://$PROJECT_DIR$/basic-train/maven-jdbc-test" />
     <file type="web" url="file://$PROJECT_DIR$/first-SpringMVC" />
+    <file type="web" url="file://$PROJECT_DIR$/jdbc-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/maven-jdbc-test" />
     <file type="web" url="file://$PROJECT_DIR$/spring-springMVC-mybatis" />
+    <file type="web" url="file://D:/downloads/springmvcexample" />
     <file type="web" url="file://E:/third/springmvc" />
     <file type="web" url="file://E:/third/SSM-Sample" />
   </component>
@@ -17,18 +17,6 @@
       <list>
         <option value="$PROJECT_DIR$/maven-jdbc-test/pom.xml" />
         <option value="$PROJECT_DIR$/jdbc-demo/pom.xml" />
-        <option value="D:/downloads/springmvcexample/pom.xml" />
-        <option value="E:/third/springmvc/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-springMVC-mybatis/pom.xml" />
-        <option value="E:/third/SSM-Sample/pom.xml" />
-        <option value="$PROJECT_DIR$/RPC/http-rpc/pom.xml" />
-        <option value="$PROJECT_DIR$/RPC/http-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/RPC/http-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/RPC/http-interfaces/pom.xml" />
-        <option value="$PROJECT_DIR$/zookeeper/http-rpc/pom.xml" />
-        <option value="$PROJECT_DIR$/zookeeper/http-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/zookeeper/http-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/zookeeper/http-interfaces/pom.xml" />
       </list>
     </option>
   </component>
