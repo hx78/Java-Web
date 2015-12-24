@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring/spring-jdbc-transaction-programing/spring-jdbc-transaction-programing.iml" filepath="$PROJECT_DIR$/spring/spring-jdbc-transaction-programing/spring-jdbc-transaction-programing.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-jdbc-transaction-statement/spring-jdbc-transaction-statement.iml" filepath="$PROJECT_DIR$/spring/spring-jdbc-transaction-statement/spring-jdbc-transaction-statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" filepath="$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts/strutsDemo/strutsDemo.iml" filepath="$PROJECT_DIR$/struts/strutsDemo/strutsDemo.iml" />
     </modules>
   </component>
 </project>

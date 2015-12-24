@@ -39,20 +39,20 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dubbo-demo-provider" target="1.5" />
-      <module name="dubbo-demon-consumer" target="1.5" />
-      <module name="http-consumer" target="1.5" />
-      <module name="http-consumer-zookeeper" target="1.5" />
-      <module name="http-interfaces" target="1.5" />
-      <module name="http-interfaces-zookeeper" target="1.5" />
-      <module name="http-provider" target="1.5" />
-      <module name="http-provider-zookeeper" target="1.5" />
-      <module name="http-rpc" target="1.5" />
-      <module name="http-rpc-zookeeper" target="1.5" />
-      <module name="jdbc-demo" target="1.5" />
-      <module name="maven-jdbc-test" target="1.5" />
-      <module name="spring-springMVC-mybatis" target="1.5" />
-      <module name="SpringInteActiveMQ" target="1.5" />
+      <module name="dubbo-demo-provider" target="1.7" />
+      <module name="dubbo-demon-consumer" target="1.7" />
+      <module name="http-consumer" target="1.7" />
+      <module name="http-consumer-zookeeper" target="1.7" />
+      <module name="http-interfaces" target="1.7" />
+      <module name="http-interfaces-zookeeper" target="1.7" />
+      <module name="http-provider" target="1.7" />
+      <module name="http-provider-zookeeper" target="1.7" />
+      <module name="http-rpc" target="1.7" />
+      <module name="http-rpc-zookeeper" target="1.7" />
+      <module name="jdbc-demo" target="1.7" />
+      <module name="maven-jdbc-test" target="1.7" />
+      <module name="spring-springMVC-mybatis" target="1.7" />
+      <module name="SpringInteActiveMQ" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

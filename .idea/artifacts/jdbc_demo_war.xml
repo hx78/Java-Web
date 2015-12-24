@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="jdbc-demo:war">
+  <artifact type="war" build-on-make="true" name="jdbc-demo:war">
     <output-path>$PROJECT_DIR$/basic-train/jdbc-demo/target</output-path>
     <root id="archive" name="jdbc-demo.war">
       <element id="artifact" artifact-name="jdbc-demo:war exploded" />
