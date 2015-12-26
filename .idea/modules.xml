@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring/first-spring/first-spring.iml" filepath="$PROJECT_DIR$/spring/first-spring/first-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/first-web/first-web.iml" filepath="$PROJECT_DIR$/basic-train/first-web/first-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-train/form-test/form-test.iml" filepath="$PROJECT_DIR$/basic-train/form-test/form-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate/hibernateDemo/hibernateDemo.iml" filepath="$PROJECT_DIR$/hibernate/hibernateDemo/hibernateDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RPC/http-consumer/http-consumer.iml" filepath="$PROJECT_DIR$/RPC/http-consumer/http-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/zookeeper/http-consumer/http-consumer-zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/http-consumer/http-consumer-zookeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/RPC/http-interfaces/http-interfaces.iml" filepath="$PROJECT_DIR$/RPC/http-interfaces/http-interfaces.iml" />
