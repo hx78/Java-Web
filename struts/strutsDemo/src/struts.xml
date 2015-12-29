@@ -5,7 +5,7 @@
         "http://struts.apache.org/dtds/struts-2.0.dtd">
 
 <struts>
-    <package name="struts2" namespace="/" extends="struts-default">
+    <package name="struts2" namespace="/lifec-tw" extends="struts-default">
         <action name="helloWorld">
             <result>
                 /index.jsp
@@ -16,6 +16,11 @@
             <result>
                 /helloStruts.jsp
             </result>
+        </action>
+
+        <action name="loginActioin" class="com.hx78.struts.Login">
+            <result name="error">/WEB-INF/jsp/error.jsp</result>
+            <result name="success">/WEB-INF/jsp/success.jsp</result>
         </action>
     </package>
 </struts>

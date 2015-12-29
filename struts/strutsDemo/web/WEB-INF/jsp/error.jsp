@@ -1,16 +1,16 @@
 <%--
   Created by IntelliJ IDEA.
   User: linming
-  Date: 2015/12/24 0024
-  Time: 14:19
+  Date: 2015/12/29 0029
+  Time: 9:46
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>hello world</title>
+    <title>error</title>
 </head>
 <body>
-<p>hello world</p>
+<p>error</p>
 </body>
 </html>
