@@ -13,6 +13,16 @@
         <url-pattern>/helloServlet</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>POST FILE</servlet-name>
+        <servlet-class>com.hx78.webapps.HandlePostImage</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>POST FILE</servlet-name>
+        <url-pattern>/post</url-pattern>
+    </servlet-mapping>
+
     <filter>
         <filter-name>second filter</filter-name>
         <filter-class>com.hx78.webapps.SecondFilter</filter-class>

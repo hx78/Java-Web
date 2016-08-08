@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="SpringInteActiveMQ:war">
-    <output-path>$PROJECT_DIR$/JMS/SpringInteJMS/target</output-path>
-    <root id="archive" name="SpringInteJMS.war">
-      <element id="artifact" artifact-name="SpringInteActiveMQ:war exploded" />
-    </root>
-  </artifact>
-</component>
