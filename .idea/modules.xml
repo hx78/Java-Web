@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E:/third/SSM-Sample/HNUST.iml" filepath="E:/third/SSM-Sample/HNUST.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC-test/JDBC-test.iml" filepath="$PROJECT_DIR$/JDBC-test/JDBC-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/JSP-Lifecycle/JSP-Lifecycle.iml" filepath="$PROJECT_DIR$/JSP-Lifecycle/JSP-Lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/JSP-grammar/JSP-grammar.iml" filepath="$PROJECT_DIR$/JSP-grammar/JSP-grammar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Web.iml" filepath="$PROJECT_DIR$/Java-Web.iml" />
-      <module fileurl="file://E:/third/Spring-sample/Spring-sample.iml" filepath="E:/third/Spring-sample/Spring-sample.iml" />
-      <module fileurl="file://E:/third/SpringMVC_01/SpringMVC_01.iml" filepath="E:/third/SpringMVC_01/SpringMVC_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/auto-wiring/auto-wiring.iml" filepath="$PROJECT_DIR$/spring/auto-wiring/auto-wiring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/collection-bean/collection-bean.iml" filepath="$PROJECT_DIR$/spring/collection-bean/collection-bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/error-test/error-test.iml" filepath="$PROJECT_DIR$/error-test/error-test.iml" />
@@ -20,8 +17,6 @@
       <module fileurl="file://$PROJECT_DIR$/maven-jdbc-test/maven-jdbc-test.iml" filepath="$PROJECT_DIR$/maven-jdbc-test/maven-jdbc-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring-DI/spring-DI.iml" filepath="$PROJECT_DIR$/spring/spring-DI/spring-DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" filepath="$PROJECT_DIR$/spring-springMVC-mybatis/spring-springMVC-mybatis.iml" />
-      <module fileurl="file://E:/third/springmvc/springmvc.iml" filepath="E:/third/springmvc/springmvc.iml" />
-      <module fileurl="file://D:/downloads/springmvcexample/springmvcexample.iml" filepath="D:/downloads/springmvcexample/springmvcexample.iml" />
     </modules>
   </component>
 </project>
